@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marksfisher/static/css/main.7756cd76.chunk.css",
+    "main.css": "/marksfisher/static/css/main.89948ba1.chunk.css",
     "main.js": "/marksfisher/static/js/main.60096a74.chunk.js",
     "main.js.map": "/marksfisher/static/js/main.60096a74.chunk.js.map",
     "runtime-main.js": "/marksfisher/static/js/runtime-main.e167cd87.js",
@@ -10,14 +10,14 @@
     "static/js/3.d3f6c152.chunk.js": "/marksfisher/static/js/3.d3f6c152.chunk.js",
     "static/js/3.d3f6c152.chunk.js.map": "/marksfisher/static/js/3.d3f6c152.chunk.js.map",
     "index.html": "/marksfisher/index.html",
-    "static/css/main.7756cd76.chunk.css.map": "/marksfisher/static/css/main.7756cd76.chunk.css.map",
+    "static/css/main.89948ba1.chunk.css.map": "/marksfisher/static/css/main.89948ba1.chunk.css.map",
     "static/js/2.f15d9692.chunk.js.LICENSE.txt": "/marksfisher/static/js/2.f15d9692.chunk.js.LICENSE.txt",
     "static/media/index2.css": "/marksfisher/static/media/back.af0d1eac.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.e167cd87.js",
     "static/js/2.f15d9692.chunk.js",
-    "static/css/main.7756cd76.chunk.css",
+    "static/css/main.89948ba1.chunk.css",
     "static/js/main.60096a74.chunk.js"
   ]
 }
