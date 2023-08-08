@@ -6,7 +6,7 @@ const App = ({ children, wrap }) => (
       <Anchor href="http://www.fisherillustration.com" className="illustration" target="_blank">
         <ImageWrap className="illustration" />
       </Anchor>
-      <Anchor href="http://www.particle17.com" className="comix" target="_blank">
+      <Anchor href="https://www.instagram.com/marksfisher3/" className="comix" target="_blank">
         <ImageWrap className="comix" />
       </Anchor>
     </Back>
