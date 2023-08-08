@@ -3,11 +3,7 @@ import styled from "styled-components";
 import "./reset.css";
 
 import back from "./assets/back.gif";
-import left from "./assets/left.gif";
-import leftBoxOff from "./assets/leftBoxOff.gif";
 import leftBoxOn from "./assets/leftBoxOn.gif";
-import right from "./assets/right.gif";
-import rightBoxOff from "./assets/rightBoxOff.png";
 import rightBoxOn from "./assets/rightBoxOn.png";
 
 export const Wrap = styled.div`
